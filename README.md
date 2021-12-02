@@ -1,4 +1,4 @@
 # Página Inicial Instagram
- Pequeno projeto do BootCamp "HTML Web Developer" da DIO para exercitar o HTML/CSS
+ Exercitando o HTML/CSS no BootCamp "HTML Web Developer" da DIO.
 
  LINK DO SITE: https://rafaelalves9.github.io/Pagina-Inicial-Instagram/
