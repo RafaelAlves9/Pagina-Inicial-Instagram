@@ -15,8 +15,7 @@ a{
 
                 /* Agrupamento principal */
 main{
-    height: 80vh;
-    margin: auto;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -114,6 +113,24 @@ nav img{
 }
 
 /*RESPONSIVIDADE*/
-@media screen {
-    
+@media (max-width:1000px) {
+    .left-content{
+        display: none;
+    }
+    .right-content{
+        width: 60%;
+        height: 100%;
+    }
+}
+@media (max-width:600px){
+    .login{
+        height: 60vh;
+    }
+    .login nav p{
+        margin: 5vh 25px 0px 25px;
+    }
+    .right-content{
+        width: 98%;
+        height: 100vh;
+    }
 }
